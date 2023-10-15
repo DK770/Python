@@ -63,7 +63,9 @@
 
 ## Boolean Algebra
   * [And Gate](boolean_algebra/and_gate.py)
+  * [Imply Gate](boolean_algebra/imply_gate.py)
   * [Nand Gate](boolean_algebra/nand_gate.py)
+  * [Nimply Gate](boolean_algebra/nimply_gate.py)
   * [Nor Gate](boolean_algebra/nor_gate.py)
   * [Not Gate](boolean_algebra/not_gate.py)
   * [Or Gate](boolean_algebra/or_gate.py)
@@ -119,9 +121,9 @@
   * [Shuffled Shift Cipher](ciphers/shuffled_shift_cipher.py)
   * [Simple Keyword Cypher](ciphers/simple_keyword_cypher.py)
   * [Simple Substitution Cipher](ciphers/simple_substitution_cipher.py)
-  * [Trafid Cipher](ciphers/trafid_cipher.py)
   * [Transposition Cipher](ciphers/transposition_cipher.py)
   * [Transposition Cipher Encrypt Decrypt File](ciphers/transposition_cipher_encrypt_decrypt_file.py)
+  * [Trifid Cipher](ciphers/trifid_cipher.py)
   * [Vigenere Cipher](ciphers/vigenere_cipher.py)
   * [Xor Cipher](ciphers/xor_cipher.py)
 
@@ -174,7 +176,9 @@
 ## Data Structures
   * Arrays
     * [Equilibrium Index In Array](data_structures/arrays/equilibrium_index_in_array.py)
+    * [Find Triplets With 0 Sum](data_structures/arrays/find_triplets_with_0_sum.py)
     * [Median Two Array](data_structures/arrays/median_two_array.py)
+    * [Pairs With Given Sum](data_structures/arrays/pairs_with_given_sum.py)
     * [Permutations](data_structures/arrays/permutations.py)
     * [Prefix Sum](data_structures/arrays/prefix_sum.py)
     * [Product Sum](data_structures/arrays/product_sum.py)
@@ -369,6 +373,7 @@
   * [Electric Conductivity](electronics/electric_conductivity.py)
   * [Electric Power](electronics/electric_power.py)
   * [Electrical Impedance](electronics/electrical_impedance.py)
+  * [Ic 555 Timer](electronics/ic_555_timer.py)
   * [Ind Reactance](electronics/ind_reactance.py)
   * [Ohms Law](electronics/ohms_law.py)
   * [Real And Reactive Power](electronics/real_and_reactive_power.py)
@@ -385,6 +390,7 @@
 
 ## Financial
   * [Equated Monthly Installments](financial/equated_monthly_installments.py)
+  * [Exponential Moving Average](financial/exponential_moving_average.py)
   * [Interest](financial/interest.py)
   * [Present Value](financial/present_value.py)
   * [Price Plus Tax](financial/price_plus_tax.py)
@@ -617,6 +623,7 @@
   * [Is Ip V4 Address Valid](maths/is_ip_v4_address_valid.py)
   * [Is Square Free](maths/is_square_free.py)
   * [Jaccard Similarity](maths/jaccard_similarity.py)
+  * [Joint Probability Distribution](maths/joint_probability_distribution.py)
   * [Juggler Sequence](maths/juggler_sequence.py)
   * [Karatsuba](maths/karatsuba.py)
   * [Krishnamurthy Number](maths/krishnamurthy_number.py)
@@ -671,6 +678,7 @@
   * [Radix2 Fft](maths/radix2_fft.py)
   * [Remove Digit](maths/remove_digit.py)
   * [Runge Kutta](maths/runge_kutta.py)
+  * [Runge Kutta Fehlberg 45](maths/runge_kutta_fehlberg_45.py)
   * [Segmented Sieve](maths/segmented_sieve.py)
   * Series
     * [Arithmetic](maths/series/arithmetic.py)
@@ -688,6 +696,7 @@
   * [Sin](maths/sin.py)
   * [Sock Merchant](maths/sock_merchant.py)
   * [Softmax](maths/softmax.py)
+  * [Solovay Strassen Primality Test](maths/solovay_strassen_primality_test.py)
   * [Square Root](maths/square_root.py)
   * [Sum Of Arithmetic Series](maths/sum_of_arithmetic_series.py)
   * [Sum Of Digits](maths/sum_of_digits.py)
@@ -728,6 +737,7 @@
   * [Spiral Print](matrix/spiral_print.py)
   * Tests
     * [Test Matrix Operation](matrix/tests/test_matrix_operation.py)
+  * [Validate Sudoku Board](matrix/validate_sudoku_board.py)
 
 ## Networking Flow
   * [Ford Fulkerson](networking_flow/ford_fulkerson.py)
@@ -803,6 +813,7 @@
   * [Rms Speed Of Molecule](physics/rms_speed_of_molecule.py)
   * [Shear Stress](physics/shear_stress.py)
   * [Speed Of Sound](physics/speed_of_sound.py)
+  * [Speeds Of Gas Molecules](physics/speeds_of_gas_molecules.py)
 
 ## Project Euler
   * Problem 001
@@ -1106,6 +1117,7 @@
 ## Scheduling
   * [First Come First Served](scheduling/first_come_first_served.py)
   * [Highest Response Ratio Next](scheduling/highest_response_ratio_next.py)
+  * [Job Sequence With Deadline](scheduling/job_sequence_with_deadline.py)
   * [Job Sequencing With Deadline](scheduling/job_sequencing_with_deadline.py)
   * [Multi Level Feedback Queue](scheduling/multi_level_feedback_queue.py)
   * [Non Preemptive Shortest Job First](scheduling/non_preemptive_shortest_job_first.py)
@@ -1193,6 +1205,7 @@
   * [Capitalize](strings/capitalize.py)
   * [Check Anagrams](strings/check_anagrams.py)
   * [Credit Card Validator](strings/credit_card_validator.py)
+  * [Damerau Levenshtein Distance](strings/damerau_levenshtein_distance.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
   * [Dna](strings/dna.py)
   * [Frequency Finder](strings/frequency_finder.py)
@@ -1225,6 +1238,7 @@
   * [String Switch Case](strings/string_switch_case.py)
   * [Strip](strings/strip.py)
   * [Text Justification](strings/text_justification.py)
+  * [Title](strings/title.py)
   * [Top K Frequent Words](strings/top_k_frequent_words.py)
   * [Upper](strings/upper.py)
   * [Wave](strings/wave.py)
